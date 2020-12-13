@@ -1,0 +1,5 @@
+Waf: Entering directory `/home/thang/ns-allinone-3.23-JN4-Dev2/ns-3.23/build'
+Waf: Leaving directory `/home/thang/ns-allinone-3.23-JN4-Dev2/ns-3.23/build'
+'build' finished successfully (0.363s)
+time	cellId	#LHOs	#EHOs	#WHOs	#PHOs	#Total	KPI
+Command ['/home/thang/ns-allinone-3.23-JN4-Dev2/ns-3.23/build/scratch/10Cells_RM1'] terminated with signal SIGTERM. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").
