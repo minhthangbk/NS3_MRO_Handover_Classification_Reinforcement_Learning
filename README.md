@@ -1,4 +1,4 @@
-# NS-3 Source Code for MRO Handover Failure Classification 
+# NS-3 (version 3.23) Source Code for MRO Handover Failure Classification 
 The folder contains NS-3 simulations for Mobility Robustness Optimization in Small Cell Networks. I added three sample codes for MRO_ABC [1], 2Cell_Analysis[2], and 12Cells_Reinforcement Learning.
 
 Please enjoy your simulations. Unfortunately, I could not organize the source code well. Thus, if you find errors, please reach me at minhthang711@gmail.com
